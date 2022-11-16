@@ -1,0 +1,6 @@
+#
+# params of model to analyse
+#
+inputdir: /inputdir
+outputdir: /outputdir
+strategy_file: simul_macd.csv 
