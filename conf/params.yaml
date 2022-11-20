@@ -3,6 +3,6 @@
 #
 inputdir: /inputdir
 outputdir: /outputdir
-strategy_file: simul_macd_4.csv
+strategy_file: simul_macd_5.csv
 opt_variable: spread_return
 col_variables: ['short','long'] 
