@@ -11,3 +11,7 @@ The optimisation is done in a training test of 80% of the yearly returns and the
 | MACD4     | 30    | 100   | [-0.10,0.05]    | MA of (H+L)/2 not stable more negative returns |
 | MACD5     | 15    | 70    | [-0.05,0.10]    | FirstOrder Bilinear Filter (H+L)/2 some negative returns |
 
+
+ # linking notebooks
+ jupyter lab --ip="*" --port=9000 --allow-root &
+
